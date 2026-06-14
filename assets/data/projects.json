@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Análise Exploratória de Dados Acadêmicos",
+    "description": "Projeto inicial para praticar limpeza, leitura e interpretação de dados usando tabelas simples, métricas descritivas e gráficos básicos.",
+    "image": "assets/images/project-analysis.svg",
+    "imageAlt": "Dashboard abstrato com gráficos de análise de dados",
+    "categories": ["Análise de Dados", "Estatística", "Python"],
+    "technologies": ["Python", "Pandas", "Matplotlib"],
+    "github": "https://github.com/seu-usuario/analise-exploratoria",
+    "demo": "https://seu-usuario.github.io/analise-exploratoria/"
+  },
+  {
+    "title": "Dashboard de Hábitos de Estudo",
+    "description": "Visualização planejada para acompanhar horas de estudo, disciplinas, evolução semanal e metas acadêmicas durante a graduação.",
+    "image": "assets/images/project-dashboard.svg",
+    "imageAlt": "Interface de dashboard com indicadores e gráficos",
+    "categories": ["Visualização", "Análise de Dados"],
+    "technologies": ["Power BI", "Excel", "SQL"],
+    "github": "https://github.com/seu-usuario/dashboard-estudos",
+    "demo": "https://seu-usuario.github.io/dashboard-estudos/"
+  },
+  {
+    "title": "Fundamentos de Estatística com Python",
+    "description": "Repositório para exercícios de média, mediana, variância, distribuição, correlação e visualizações estatísticas.",
+    "image": "assets/images/project-statistics.svg",
+    "imageAlt": "Gráfico estatístico com curva e pontos de dados",
+    "categories": ["Estatística", "Python"],
+    "technologies": ["Python", "NumPy", "Matplotlib"],
+    "github": "https://github.com/seu-usuario/estatistica-python",
+    "demo": "https://seu-usuario.github.io/estatistica-python/"
+  },
+  {
+    "title": "Primeiro Modelo de Machine Learning",
+    "description": "Experimento futuro para treinar, avaliar e explicar um modelo simples de classificação ou regressão com Scikit-Learn.",
+    "image": "assets/images/project-ml.svg",
+    "imageAlt": "Rede de pontos representando modelo de machine learning",
+    "categories": ["Machine Learning", "Python"],
+    "technologies": ["Python", "Scikit-Learn", "Pandas"],
+    "github": "https://github.com/seu-usuario/primeiro-modelo-ml",
+    "demo": "https://seu-usuario.github.io/primeiro-modelo-ml/"
+  },
+  {
+    "title": "Consultas SQL para Análise",
+    "description": "Coleção de consultas para praticar filtros, agregações, joins e criação de insights a partir de bases relacionais.",
+    "image": "assets/images/project-sql.svg",
+    "imageAlt": "Blocos de dados conectados simbolizando banco de dados SQL",
+    "categories": ["Análise de Dados"],
+    "technologies": ["SQL", "GitHub"],
+    "github": "https://github.com/seu-usuario/sql-analise",
+    "demo": "https://seu-usuario.github.io/sql-analise/"
+  },
+  {
+    "title": "Visualização de Dados com Matplotlib",
+    "description": "Galeria de gráficos criada para treinar escolha visual, clareza, comparação e narrativa com dados.",
+    "image": "assets/images/project-viz.svg",
+    "imageAlt": "Composição de gráficos coloridos para visualização de dados",
+    "categories": ["Visualização", "Python"],
+    "technologies": ["Python", "Matplotlib", "NumPy"],
+    "github": "https://github.com/seu-usuario/visualizacao-dados",
+    "demo": "https://seu-usuario.github.io/visualizacao-dados/"
+  }
+]
