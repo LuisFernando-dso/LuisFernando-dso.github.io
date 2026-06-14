@@ -4,9 +4,9 @@
 
 # 📊 Portfólio de Ciência de Dados
 
-Data Science Portfolio | Projetos, analises, visualizacoes e estudos desenvolvidos ao longo da minha formacao em Ciencia de Dados.
+Data Science Portfolio | Projetos, análises, visualizações e estudos desenvolvidos ao longo da minha formação em Ciência de Dados.
 
-Este projeto e um portfolio profissional, moderno e responsivo para um estudante de Ciencia de Dados do primeiro periodo. Ele foi pensado para apresentar a evolucao academica desde o inicio da graduacao, com espaco para adicionar futuros projetos de Estatistica, Machine Learning, Visualizacao de Dados e Python.
+Este projeto consiste em um portfólio profissional, moderno e responsivo desenvolvido para documentar minha trajetória acadêmica em Ciência de Dados. O objetivo é apresentar minha evolução desde o início da graduação, reunindo projetos, estudos e análises nas áreas de Estatística, Machine Learning, Visualização de Dados e Python, além de servir como um espaço para a publicação de futuros trabalhos e aprendizados.
 
 ## 🌐 Acesse o Portfólio
 
