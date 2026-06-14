@@ -370,6 +370,7 @@ h3 {
   aspect-ratio: 1;
   margin-inline: auto;
   object-fit: cover;
+  object-position: center 50%;
   border: 1px solid var(--line);
   border-radius: 50%;
   background: var(--surface-strong);
